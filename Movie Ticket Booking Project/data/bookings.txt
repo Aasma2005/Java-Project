@@ -1,0 +1,11 @@
+BookingID:1,Movie:Avengers,Seats:[C2, B4, C3],Total:600.0
+BookingID:1,Movie:Avengers,Seats:[C3, C2, B2, B4, C4, D3, B3, E4],Total:1600.0
+BookingID:1,Movie:Avengers,Seats:[E5],Total:200.0
+BookingID:1,Movie:Inception,Seats:[C4],Total:180.0
+BookingID:1,Movie:Spider-Man,Seats:[D3, B5],Total:300.0
+BookingID:1,Movie:Inception,Seats:[D4, D5, C5, C4, A1, B1, C1, D1, E1, E2, E3, E4, E5, D2, D3, C3, C2, B2, A2, A3, A4, A5, B5, B4, B3],Total:4500.0
+BookingID:1,Movie:Inception,Seats:[D4, D3],Total:360.0
+BookingID:1,Movie:Avengers,Seats:[D4, E3],Total:400.0
+BookingID:1,Movie:Avengers,Seats:[D4, E3],Total:400.0
+BookingID:1,Movie:Spider-Man,Seats:[A1],Total:150.0
+BookingID:1,Movie:Inception,Seats:[D4],Total:180.0
